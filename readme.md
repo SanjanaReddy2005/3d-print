@@ -11,7 +11,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url] -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -38,8 +37,6 @@ Just follow these few simple steps for using our free software
    sh
    git clone https://github.com/niketh457/3d-print.git
    
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -102,7 +99,6 @@ Feel free to provide feedback or contact us for support if needed.
 
 Once you've obtained the desired G-code files and/or explored the simulation and additional information, you can proceed with your 3D printing process using the generated G-code.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -121,8 +117,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
@@ -138,8 +132,6 @@ Our Team:
 
 Project Link: [https://github.com/niketh457/3d-print](https://github.com/niketh547/3d-print)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
@@ -153,8 +145,6 @@ Project Link: [https://github.com/niketh457/3d-print](https://github.com/niketh5
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
